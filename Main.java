@@ -1,4 +1,4 @@
-package timeLogTry1;
+package nalang;
 
 public class Main {
 

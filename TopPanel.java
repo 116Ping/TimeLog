@@ -1,4 +1,5 @@
-package timeLogTry1;
+package nalang;
+
 
 import java.awt.Color;
 import java.awt.Font;

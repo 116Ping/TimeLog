@@ -1,4 +1,5 @@
-package timeLogTry1;
+package nalang;
+
 
 public class Person{
 	private String name;
